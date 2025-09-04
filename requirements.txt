@@ -1,0 +1,4 @@
+yt-dlp>=2024.7.25
+faster-whisper>=1.0.0
+webrtcvad>=2.0.10
+soundfile>=0.12.1
